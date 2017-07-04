@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="circleButton">
+        <attr name="btn_width" format="dimension" />
+        <attr name="btn_height" format="dimension" />
+        <attr name="btn_color" format="color" />
+        <attr name="need_center_circle" format="boolean"/>
+        <attr name="center_circle_radius" format="dimension"/>
+        <attr name="outer_circle_radius" format="dimension" />
+        <attr name="outer_circle_width" format="dimension" />
+        <attr name="progress_color" format="color"/>
+    </declare-styleable>
+
+</resources>

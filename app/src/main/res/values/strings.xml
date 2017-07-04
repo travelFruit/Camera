@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Funny Ten</string>
+    <string name="cancel">取消</string>
+    <string name="camera_configure_failed">相机配置失败！</string>
+    <string name="save_photo_failed">照片保存失败！</string>
+    <string name="take_photo_failed">相机不可用！</string>
+    <string name="camera_connect_failed">相机被占用或不可用！</string>
+    <string name="camera_configure_success">相机配置成功！</string>
+
+
+</resources>
